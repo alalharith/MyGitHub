@@ -5,3 +5,12 @@ h1 {
      margin: auto;
      text-align: center;
 }
+button {
+     background-color: darkslateblue;
+     color: floralwhite;
+     font-size: 15px;
+
+}
+div {
+     text-align: right;
+}
